@@ -1,5 +1,5 @@
 # neo-flymode
-![alt text](<Screenshot 2026-11-25 230026.png>)
+<img width="698" height="716" alt="Screenshot 2026-11-25 230026" src="https://github.com/user-attachments/assets/4bd9db85-422f-4ebb-a207-1287a9ddd1a6" />
 
 # Why I built this
 
